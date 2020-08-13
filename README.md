@@ -125,8 +125,8 @@
 
 # Навигация
 По репозиторию:
-* [Папка с данными](https://kruzhok.org)
-* [Полное описание модуля планирования учебного центра](https://kruzhok.org)
+* [Папка с данными](https://github.com/practicingfutures/Pulkovo.Hack_task/tree/master/data)
+* [Полное описание модуля планирования учебного центра](https://github.com/practicingfutures/Pulkovo.Hack_task/blob/master/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%B0%D0%BC%D0%B8%20%D0%90%D0%A3%D0%A6_%D0%A2%D0%97.DOCX)
 
 По хакатону:
 * [Чат хакатона](https://t.me/joinchat/Sf_6iVTVeEKLqo_u74DVeg)
